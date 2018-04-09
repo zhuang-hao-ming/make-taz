@@ -28,7 +28,7 @@ simplify_polygon('./data/shp/taz_level2_3.shp', './data/shp/taz_level2_sim.shp',
 
 ## example
 
-![result]()
+![result](https://github.com/zhuang-hao-ming/make-taz/blob/master/images/segmentation_result.jpg)
 
 
 ## refer

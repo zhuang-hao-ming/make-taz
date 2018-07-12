@@ -30,6 +30,6 @@ def simplify_polygon(input_file_name, output_file_name, tolerance):
 
 
 if __name__ == '__main__':
-    simplify('./data/shp/taz_level3.shp', './data/shp/taz_level3_simplify1.shp', 30)
+    simplify_polygon('./data/shp/taz_level3.shp', './data/shp/taz_level3_simplify1.shp', 30)
     
     
